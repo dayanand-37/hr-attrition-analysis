@@ -45,4 +45,3 @@ CREATE TABLE IF NOT EXISTS employees (
     YearsSinceLastPromotion INT,
     YearsWithCurrManager INT
 );
-
